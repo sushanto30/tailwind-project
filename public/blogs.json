@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+      "title": "The Adventure Begins",
       "cover_image": " https://i.ibb.co/NSY3KSM/clement-helardot-95-YRwf6-CNw8-unsplash.jpg",
       "author_image": "https://i.ibb.co/hYpqhW4/alex-suprun-ZHv-M3-XIOHo-E-unsplash.jpg",
       "author_name": "emily johnson",
@@ -10,7 +11,8 @@
     },
     {
       "id": 2,
-      "cover_image": " https://i.ibb.co/1rBXxz1/andras-vas-Bd7g-Nn-WJBk-U-unsplash.jpg",
+      "title": "Exploring Future Technologies",
+      "cover_image": " https://i.ibb.co/DQGRTm0/neom-El92hm-At91o-unsplash.jpg",
       "author_image": " https://i.ibb.co/Rb0fcdS/charlesdeluvio-k-Vg2-DQTAK7c-unsplash.jpg",
       "author_name": "alex thompson",
       "posted_date": "March 27, 2024",
@@ -19,15 +21,17 @@
     },
     {
       "id": 3,
+      "title": "Maintaining a Healthy Lifestyle",
       "cover_image": " https://i.ibb.co/rZ3g1Cf/christopher-gower-m-HRf-Lhg-ABo-unsplash.jpg",
       "author_image": " https://i.ibb.co/GTj19mL/christina-wocintechchat-com-0-Zx1b-Dv5-BNY-unsplash.jpg",
       "author_name": "sarah lee",
-      "posted_date": "March 26, 2024",
+      "posted_date ": "March 26, 2024",
       "reading_time": 6,
       "hashtags": ["#health", "#wellness", "#nutrition"]
     },
     {
       "id": 4,
+      "title": "Unraveling Ancient Mysteries",
       "cover_image": " https://i.ibb.co/VLVD7M7/john-schnobrich-Fl-Pc9-Voc-J4-unsplash.jpg",
       "author_image": " https://i.ibb.co/CKKLyBF/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
       "author_name": "michael smith",
@@ -37,6 +41,7 @@
     },
     {
       "id": 5,
+      "title": "Capturing Nature's Beauty",
       "cover_image": " https://i.ibb.co/XzsKhDx/designecologist-Pmh0-Uo-G1vl-E-unsplash.jpg",
       "author_image": " https://i.ibb.co/R9D2Rq6/ayo-ogunseinde-sib-Vw-ORYqs0-unsplash.jpg",
       "author_name": "samantha brown",
