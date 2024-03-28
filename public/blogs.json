@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover_image": " https://i.ibb.co/NSY3KSM/clement-helardot-95-YRwf6-CNw8-unsplash.jpg",
+      "author_image": "https://i.ibb.co/hYpqhW4/alex-suprun-ZHv-M3-XIOHo-E-unsplash.jpg",
+      "author_name": "emily johnson",
+      "posted_date": "March 28, 2024",
+      "reading_time": 8,
+      "hashtags": ["#fiction", "#shortstory", "#adventure"]
+    },
+    {
+      "id": 2,
+      "cover_image": " https://i.ibb.co/1rBXxz1/andras-vas-Bd7g-Nn-WJBk-U-unsplash.jpg",
+      "author_image": " https://i.ibb.co/Rb0fcdS/charlesdeluvio-k-Vg2-DQTAK7c-unsplash.jpg",
+      "author_name": "alex thompson",
+      "posted_date": "March 27, 2024",
+      "reading_time": 12,
+      "hashtags": ["#technology", "#future", "#AI"]
+    },
+    {
+      "id": 3,
+      "cover_image": " https://i.ibb.co/rZ3g1Cf/christopher-gower-m-HRf-Lhg-ABo-unsplash.jpg",
+      "author_image": " https://i.ibb.co/GTj19mL/christina-wocintechchat-com-0-Zx1b-Dv5-BNY-unsplash.jpg",
+      "author_name": "sarah lee",
+      "posted_date": "March 26, 2024",
+      "reading_time": 6,
+      "hashtags": ["#health", "#wellness", "#nutrition"]
+    },
+    {
+      "id": 4,
+      "cover_image": " https://i.ibb.co/VLVD7M7/john-schnobrich-Fl-Pc9-Voc-J4-unsplash.jpg",
+      "author_image": " https://i.ibb.co/CKKLyBF/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
+      "author_name": "michael smith",
+      "posted_date": "March 25, 2024",
+      "reading_time": 10,
+      "hashtags": ["#history", "#ancientcivilizations", "#archeology"]
+    },
+    {
+      "id": 5,
+      "cover_image": " https://i.ibb.co/XzsKhDx/designecologist-Pmh0-Uo-G1vl-E-unsplash.jpg",
+      "author_image": " https://i.ibb.co/R9D2Rq6/ayo-ogunseinde-sib-Vw-ORYqs0-unsplash.jpg",
+      "author_name": "samantha brown",
+      "posted_date": "March 24, 2024",
+      "reading_time": 7,
+      "hashtags": ["#travel", "#photography", "#nature"]
+    }
+  ]
+  
